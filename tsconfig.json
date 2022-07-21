@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "module": "CommonJS",
+      "strict": true,
+    },
+    // "compilerOptions": {
+    //     "noImplicitAny": false
+    // }
+  }
